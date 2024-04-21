@@ -1,7 +1,7 @@
 #include <stdio>
 
 int Square(int x){
-    //TODO
+    return x * x;
 }
 
 void Print(int x){
