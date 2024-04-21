@@ -9,6 +9,7 @@ void Print(int x){
 }
 
 int main(){
+    cout << "хуй" << endl;
     cout << "chuj" << endl;
     int count;
     cin >> count;
