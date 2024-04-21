@@ -9,6 +9,7 @@ void Print(int x){
 }
 
 int main(){
+    cout << "хуй" << endl;
     int count;
     cin >> count;
     for (int i = 0; i < count; i++)
