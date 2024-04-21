@@ -5,7 +5,7 @@ int Square(int x){
 }
 
 void Print(int x){
-    //TODO
+    cout << "num: " << x << endl;
 }
 
 int main(){
